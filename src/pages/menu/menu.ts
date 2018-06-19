@@ -22,7 +22,7 @@ export class MenuPage {
     this.categories = [];
 
     this.WooCommerce = WC({
-      url: "http://192.168.0.3/wordpress",
+      url: "http://marcosromero.me",
       consumerKey: "ck_4097cf951f70534c48ff238a1ce57e84fcd37fb6",
       consumerSecret: "cs_a65579f29bc27a84d9c9e5ac2d43cfddf647f3f7"
     });
